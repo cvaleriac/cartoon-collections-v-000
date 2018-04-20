@@ -28,4 +28,5 @@ def find_the_cheese(cheese_types)
   cheese_types.find do |type|
       cheese_types.include?(type)
     end
+  else puts nil
   end
