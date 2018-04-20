@@ -29,4 +29,3 @@ def find_the_cheese(cheese_types)
       cheese_types.include?(type)
     end
   end
-end
